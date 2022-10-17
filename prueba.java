@@ -6,9 +6,7 @@ public class prueba {
 		
 		System.out.println("17 años 16-11-2004");
 		System.out.println("Mi comida favorita es la pizza");
-		System.out.println("Mi cantante favorito es Bad Bunny");	
-		
-
+	
 	}
 
 
